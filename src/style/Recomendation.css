@@ -1,0 +1,22 @@
+.recomen {
+  background-color: coral;
+  border: 5px solid rgb(200, 208, 200);
+  height: 330px;
+  overflow-y: hidden;
+  width: 480px;
+}
+
+.img {
+  height: 200px;
+  width: 200px;
+}
+
+.position {
+  padding: 20px;
+}
+
+.smallDiv {
+  display: flex;
+  height: 330px;
+  width: 580px;
+}
